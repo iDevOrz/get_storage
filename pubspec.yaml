@@ -12,7 +12,7 @@ dependencies:
   get:
     git:
       url: https://github.com/iDevOrz/getx.git
-      ref: 6b85402
+      ref: 4.6.1+1
   path_provider: ^2.0.1
   #platform_info: ^3.0.0-nullsafety.1
 
